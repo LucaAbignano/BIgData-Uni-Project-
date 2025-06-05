@@ -1,6 +1,6 @@
-# BigData project Notebook
+# Big Data Notebook project
 
-Notebook related to the group project for the course on [BigData](https://uninsubria.coursecatalogue.cineca.it/insegnamenti/2024/26758/2019/9999/10104?coorte=2022&schemaid=5675) at [Uninsubria](https://www.uninsubria.it/): it contains several exercises related to different topics concerning Data Science &amp; Machine Learning
+Notebook regarding the group project for undergraduate [Big Data](https://uninsubria.coursecatalogue.cineca.it/insegnamenti/2024/26758/2019/9999/10104?coorte=2022&schemaid=5675) curse at [Uninsubria](https://www.uninsubria.it/). It contains several exercises related to different topics concerning Data Science &amp; Machine Learning
 
 ## Topics
 * Probability
