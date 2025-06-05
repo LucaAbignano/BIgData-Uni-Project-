@@ -5,7 +5,7 @@ Notebook related to the group project for the course on [BigData](https://uninsu
 ## Topics
 * Probability
 * Data Wrangling
-* Correlation -> 
+* Correlation 
 * Score & Ranking
 * Principles of Data Visualization
 * Data Distributions
