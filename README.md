@@ -1,2 +1,4 @@
 # BIgData-Uni-Project-
-Google Colab Notebook about my university group project for BigData course: the are several exercises related to different topics concerning Data Science &amp; Machine Learning
+This is a Notebook about a university group project for the BigData course: it contains several exercises related to different topics concerning Data Science &amp; Machine Learning
+
+@4c30
